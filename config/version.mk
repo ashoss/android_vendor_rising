@@ -60,4 +60,5 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.rising.storage?=$(RISING_STORAGE) \
     ro.rising.ram?=$(RISING_RAM) \
     ro.rising.battery?=$(RISING_BATTERY) \
-    ro.rising.display_resolution?=$(RISING_DISPLAY)
+    ro.rising.display_resolution?=$(RISING_DISPLAY) \
+    ro.rising.maintainer?=$(RISING_MAINTAINER)
