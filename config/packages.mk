@@ -9,6 +9,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Backgrounds \
     BatteryStatsViewer \
+    OmniStyle \
     OmniJaws \
     Updater \
     GameSpace

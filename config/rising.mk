@@ -23,7 +23,7 @@ PRODUCT_COPY_FILES += \
 
 # Dexopt
 PRODUCT_DEXPREOPT_SPEED_APPS += \
-    Trebuchet \
+    Launcher3QuickStep \
     NexusLauncherRelease
 
 # Product Copy
