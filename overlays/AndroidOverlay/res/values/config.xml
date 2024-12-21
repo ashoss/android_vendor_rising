@@ -29,4 +29,8 @@
     
     <integer name="config_maxBitmapSizePx">500</integer>
     <integer name="config_maxNotifBitmapSizePx">384</integer>
+    
+    <bool name="config_safe_media_volume_enabled">false</bool>
+    <bool name="config_safe_media_disable_on_volume_up">true</bool>
+    <bool name="config_safe_sound_dosage_enabled">false</bool>
 </resources>
