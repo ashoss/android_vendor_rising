@@ -11,7 +11,9 @@ include vendor/rising/config/version.mk
 include vendor/rising/audio/audio.mk
 include vendor/rising/overlays/build.mk
 include vendor/rising/prebuilts/prebuilts.mk
+ifeq ($(WITH_PIXEL_OVERLAYS),true)
 -include vendor/pixeloverlays/config.mk
+endif
 -include vendor/google/mainline_modules/config.mk
 
 
