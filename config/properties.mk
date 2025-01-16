@@ -119,11 +119,11 @@ PRODUCT_PRODUCT_PROPERTIES += \
     persist.sys.pihooks_DEVICE?=cheetah \
     persist.sys.pihooks_PRODUCT?=cheetah_beta \
     persist.sys.pihooks_DEVICE_INITIAL_SDK_INT?=25 \
-    persist.sys.pihooks_SECURITY_PATCH?=2024-11-05 \
-    persist.sys.pihooks_ID?=BP11.241025.006
+    persist.sys.pihooks_SECURITY_PATCH?=2024-12-05 \
+    persist.sys.pihooks_ID?=BP11.241121.013
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PihooksGmsFp="google/cheetah_beta/cheetah:15/BP11.241025.006/12620009:user/release-keys" \
+    PihooksGmsFp="google/cheetah_beta/cheetah:15/BP11.241121.013/12873528:user/release-keys" \
     PihooksGmsModel="Pixel 7 Pro" \
     PihooksBuildFp="google/caiman/caiman:15/AP4A.241205.013/12621605:user/release-keys" \
     PihooksBuildModel="Pixel 9 Pro"
